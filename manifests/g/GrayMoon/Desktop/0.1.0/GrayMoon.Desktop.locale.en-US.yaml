@@ -27,8 +27,5 @@ Tags:
 - branches
 ReleaseNotesUrl: https://github.com/Jandini/GrayMoon.Release/releases/tag/0.1.0
 InstallationNotes: GrayMoon is ready. Launch GrayMoon to create or open your first multi-repository workspace.
-Icons:
-- IconUrl: https://raw.githubusercontent.com/Jandini/GrayMoon/main/res/moon_256.png
-  IconFileType: png
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
